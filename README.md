@@ -9,10 +9,9 @@ Skills: JAVA / C++ / JS / C#
 - 💬 Ask me about https://poetty.me/ 
 - 📫 How to reach me: poetty@orendastudios.com 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Poeettyy&show_icons=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Poeettyy)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Poeettyy&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Poeettyy)  
 
 ![Profile views](https://gpvc.arturio.dev/Poeettyy)  
