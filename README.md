@@ -2,7 +2,7 @@
 ####  
 A developer who wants to go further, currently working on a project called Orenda Studios, Inc.
 
-Skills: JAVA / C++ / JS / C# 
+Skills: JAVA / C# 
 
 - 🔭 I’m currently working on Orenda Studios, Inc 
 - 🌱 I’m currently learning Java, C++, C# and JS 
